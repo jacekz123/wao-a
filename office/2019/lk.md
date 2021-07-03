@@ -14,5 +14,3 @@ PowerPoint 2019 | RRNCX-C64HY-W2MM7-MCH9G-TJHMQ
 Publisher 2019 | G2KWX-3NW6P-PY93R-JXK2T-C9Y9V
 Skype for Business 2019 | NCJ33-JHBBY-HTK98-MYCV8-HMKHJ
 Word 2019 | PBX3G-NWMT6-Q7XBW-PYJGG-WXD33
-
-> _źródło: **[Microsoft Docs](https://docs.microsoft.com/pl-pl/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN)**_
