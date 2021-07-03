@@ -6,7 +6,7 @@ W tym projekcie dowiesz się, jak aktywować Windowsa i Office'a przy pomocy lin
 * [Windows 10/11](windows/windows1011.md)
 * [Windows 7](windows/windows7.md)
 ## Office
-* [Office 2019](office/2019/a.md)
-* [Office 2016](office/2016/a.md)
+* [Office 2019](office/2019.md)
+* [Office 2016](office/2016.md)
 ### Uwagi
 Pamiętaj, aby CMD zawsze **otwierać z uprawnieniami administratora**.
