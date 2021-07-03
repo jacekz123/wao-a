@@ -5,7 +5,7 @@ Zapoznaj się z [listą serwerów](/servers.md), aby w razie niedziałania poni�
 Wybierz z poniższej listy klucz do swojej wersji systemu.
 
 Wersja | Klucz
------ | -----
+------ | -----
 **Home** | TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 **Home N** | 3KHY7-WNT83-DGQKR-F7HPR-844BM
 **Home Single Language** | 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
