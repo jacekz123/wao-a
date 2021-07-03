@@ -1,5 +1,5 @@
 # Aktywacja Windows i Office
-W tym projekcie dowiesz się, jak aktywować Windowsa i Office'a przy pomocy KMS.
+W tym projekcie dowiesz się, jak aktywować Windowsa i Office'a przy pomocy lini komend - **CMD**.
 
 * [Lista serwerów](servers.md) (wspólne)
 ## Windows
@@ -12,3 +12,5 @@ W tym projekcie dowiesz się, jak aktywować Windowsa i Office'a przy pomocy KMS
 * Office 2016 | [lista kluczy](office/2016/lk.md)
   * [Standard](office/2016/standard.md)
   * [Pro Plus](office/2016/proplus.md)
+### Uwagi
+Pamiętaj, aby CMD zawsze **otwierać z uprawnieniami administratora**.
