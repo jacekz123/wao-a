@@ -23,5 +23,5 @@ slmgr /ipk klucz
 slmgr /skms kms10.msguides.com
 slmgr /ato
 ```
-W pierwszej komendzie podmień _klucz_ na odpowiedni dla swojej wersji systemu;
+W pierwszej komendzie podmień `klucz` na odpowiedni dla swojej wersji systemu;
 Jeśli aktywacja się nie powiedzie, powtórz proces podmieniając serwer na jeden z [listy serwerów](/servers.md) (podmień `kms10.msguides.com`).
