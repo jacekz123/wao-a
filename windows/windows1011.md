@@ -3,6 +3,7 @@
 Zapoznaj się z [listą serwerów](/servers.md), aby w razie niedziałania poniżej podanego go podmienić.
 ## Klucze
 Wybierz z poniższej listy klucz do swojej wersji systemu.
+<details><summary>Wyświetl klucze</summary>
 
 Wersja | Klucz
 ------ | -----
@@ -16,7 +17,8 @@ Wersja | Klucz
 **Education N** | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 **Enterprise** | NPPR9-FWDCX-D2C8J-H872K-2YT43
 **Enterprise N** | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-
+</details>
+  
 ## Komendy
 ```
 slmgr /ipk klucz
