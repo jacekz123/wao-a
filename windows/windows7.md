@@ -15,6 +15,7 @@ Wersja | Klucz
 **Windows 7 Enterprise E** | C29WB-22CC8-VJ326-GHFJW-H9DH4
 
   </details>
+  
 ## Komendy
 ```
 slmgr /ipk klucz
